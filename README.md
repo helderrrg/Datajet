@@ -1,8 +1,8 @@
 ![DataJet](.github/assets/datajet.png)
 
-Implementation of a database of travel records, such as flights, reservations and users in C, using [GLib](https://docs.gtk.org/glib/)! Developed as a project for the IT Laboratories III (Laboratórios de Informática III) class, part of the second year's curriculum of the Software Engineering bachelor's degree at University of Minho.
+## Grade: 19/20 :star:
 
-This project obtained a final grade of **19/20** 💎
+Implementation of a database of travel records, such as flights, reservations and users in C, using [GLib](https://docs.gtk.org/glib/)! Developed as a project for the IT Laboratories III (Laboratórios de Informática III) class, part of the second year's curriculum of the Software Engineering bachelor's degree at University of Minho.
 
 ![screenshot](.github/assets/screenshot.png)
 
